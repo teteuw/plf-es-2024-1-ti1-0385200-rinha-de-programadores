@@ -7,7 +7,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 * Fernando Dantas Gomes Leite
 * Nome completo do aluno 2
 * Nome completo do aluno 3
-* Nome completo do aluno 4
+* Vitor Costa Vianna
 
 ## Professores responsáveis
 
