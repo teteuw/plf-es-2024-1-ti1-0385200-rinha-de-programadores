@@ -7,8 +7,8 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 * Eliseu do Prado Chaves
 * Fernando Dantas Gomes Leite
 * Mateus Araujo Santos
-* Nome completo do aluno 3
 * Vitor Costa Vianna
+* Vitor Lichter Sampaio
 
 ## Professores responsáveis
 
