@@ -20,6 +20,9 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 
 ## Problema
 
+Atualmente a área de programação está em alta , porém grande parte das pessoas que começam a estudar este contéudo desistem no meio do caminho ou possuem uma enorme dificuldade para evoluir. Dessa forma 
+se faz necessário ferramentas para alavancar o conhecimento e habilidades de um programador iniciante!
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
 
 Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
