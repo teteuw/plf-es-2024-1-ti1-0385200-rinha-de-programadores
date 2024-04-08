@@ -98,6 +98,15 @@ Adicione informações sobre o público-alvo por meio de uma descrição textual
 
 ## Personas
 
+Pessoa 1: João Pedro é um morador de Nova Lima com 19 anos que sempre se interessou em atividades externas, como fazer trilhas, acampar e praticar esportes no geral. O máximo de tecnologia a que ele recorreu foi um laptop durante o período do ensino virtual na pandemia.
+Recentemente, João começou a namorar uma garota que cursava Ciência da Computação. A relação entre os dois sempre foi boa, porém ele percebeu que sua namorada sempre mostrou um interesse aos seus passatempos. Infelizmente, ele não botava tanto esforço em programação, por isso ele mudou e começou a aprender a programar usando a rinha de programadores, para assim surpreender sua namorada e mostrar que o interesse dos passatempos de um do outro é recíproco.
+
+Pessoa 2: Joana é uma moradora do Buritis com 20 anos. Durante toda sua vida, ela tinha felicidade enquanto mexia com jogos eletrônicos, por esse motivo ela decidiu ingressar no curso de Engenharia da Computação. No início, ela conseguiu acompanhar facilmente as matérias, contudo, ela participou de um intercâmbio e por isso perdeu 1 mês de matérias importantes.
+Ela então decidiu utilizar a rinha de computação para rapidamente reter a informação necessária para alcançar seus colegas de sala na matéria que ela perdeu.
+
+Pessoa 3: Gabriel é um morador da Savassi com 18 anos. Durante sua infância, ele sempre teve o desejo de ganhar, tornando-o muito competitivo. Por outros motivos externos, ele decidiu cursar Engenharia de Software. O curso estava tudo como previsto, entretanto, para ele faltava algo muito importante, a adrenalina e todas as emoções que vinham com o ato de competir. Isso fez com que ele perdesse a motivação de tirar notas altas, pois, a despeito de tudo, a sensação de tirar a nota mínima e a total era a mesma. Para reviver sua garra, ele fundiu os mundos de competição e ensino. Com a rinha de programação, ele voltou a gostar realmente de seu curso e se empenhar mais nele.
+
+
 Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
 
 **Links Úteis**:
@@ -109,6 +118,43 @@ Relacione as personas identificadas no seu projeto e os respectivos mapas de emp
 
 ## Histórias de Usuários
 
+como : (usuario)
+quero : poder selecionar diferentes linguagens de programação
+para : aprimorar minhas habilidades na linguagem X
+
+como : (usuario)
+quero : poder escolher o modo de jogo como casual ou competitivo 
+para : para no casual aprimorar minhas habilidades sem se preocupar com o rank e aplicar no competitivo
+
+como : (usuario)
+quero : cadastrar minha conta 
+para : não perder meu progresso e visualizar meu rank atual
+
+como : (usuario)
+quero : poder adicionar amigos 
+para : jogar online com eles mais de uma vez e tornar a experiência mais agradável
+
+como : (usuario)
+quero : conseguir salvar meu login
+para :  não perder tempo digitando o usuario/senha todas vez , agilizando o processo
+
+como : (usuario)
+quero : conseguir visualizar o projeto final dos outros usuários 
+para : aprender / pegar ideias / dicas 
+
+como : (usuario)
+quero :  No final da rodada receber meu código corrigido
+para :  saber o que errei , e aprimorar e aprender 
+
+como : (usuario)
+quero : poder criar partidas privadas 
+para :  chamar pessoas específicas para jogar e praticar com quem você quiser 
+
+como : (usuario)
+quero : dependendo do nivel do rank e do desafio receber dicas 
+para : tornar a experiência mais agradável e tirar duvidas
+
+
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 **Links Úteis**:
@@ -117,6 +163,19 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
+
+Requisitos Funcionais :
+-Cadastro de usuário / salvvar o login
+-Seleção de diversas linguagens para o dessafio
+-Seleção do modo de jogo
+-Biblioteca de amigos
+-Visualização do projeto dos outros usuarios
+-Botão para criação de partidas privadas 
+
+Requisitos não funcionais:
+-Segurança / confiabilidade do login
+-Desempenho rápido na correção dos códigos
+-Atualização rápida do rank
 
 Os requisitos de um projeto são classificados em dois grupos:
 
