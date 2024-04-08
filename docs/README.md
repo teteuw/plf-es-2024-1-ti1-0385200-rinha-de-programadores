@@ -166,15 +166,23 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 Requisitos Funcionais :
 -Cadastro de usuário / salvvar o login
+
 -Seleção de diversas linguagens para o dessafio
+
 -Seleção do modo de jogo
+
 -Biblioteca de amigos
+
 -Visualização do projeto dos outros usuarios
+
 -Botão para criação de partidas privadas 
 
 Requisitos não funcionais:
+
 -Segurança / confiabilidade do login
+
 -Desempenho rápido na correção dos códigos
+
 -Atualização rápida do rank
 
 Os requisitos de um projeto são classificados em dois grupos:
