@@ -35,6 +35,13 @@ Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Think
 
 ## Objetivos
 
+Obejetivo geral: 
+.Desenvolver um software para auxiliar estudantes de programação que pensam  em desistir no meio do caminho ou possuem uma enorme dificuldade para evoluir.
+Obejtivos específicos: 
+.Tornar o estudo de algoritmos , e códigos mais "divertido" por meio da competição.
+.Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompnesas no jogo.
+
+
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
 
 **Links Úteis**:
@@ -42,6 +49,8 @@ Aqui você deve descrever os objetivos do trabalho indicando que o objetivo gera
 - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
+
+A importância do tema abordado para a construção do software se diz a respeito que a área de TI vem crescendo cada vez mais e sofrendo diversas transformações constantemnete, e algo que preocupa muito é o mercado de trabalho já que grande porcentagem das pessoas que começam a estudar programaçao desistem antes de se tornaremm qualificados. Por isso a ideia desta aplicaçao Web é ajudar estudantes , de uma forma mais atrativa como o mundo dos games, tornando o aprendizado mais dinâmico e competitivo , os incentivando a manter o interesse na área e algum dia se tornar um profissional muito bem qualificado no mercado de trabalho.
 
 Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
 
