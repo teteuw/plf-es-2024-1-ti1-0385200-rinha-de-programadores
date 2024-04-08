@@ -35,11 +35,11 @@ Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Think
 
 ## Objetivos
 
-Obejetivo geral: 
-.Desenvolver um software para auxiliar estudantes de programação que pensam  em desistir no meio do caminho ou possuem uma enorme dificuldade para evoluir.
-Obejtivos específicos: 
-.Tornar o estudo de algoritmos , e códigos mais "divertido" por meio da competição.
-.Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompnesas no jogo.
+Obejetivo geral : 
+ Desenvolver um software para auxiliar estudantes de programação que pensam  em desistir no meio do caminho ou possuem uma enorme dificuldade para evoluir.
+Obejtivos específicos : 
+ Tornar o estudo de algoritmos , e códigos mais "divertido" por meio da competição.
+ / Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompnesas no jogo.
 
 
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
