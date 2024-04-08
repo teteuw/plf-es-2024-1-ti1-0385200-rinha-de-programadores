@@ -62,6 +62,31 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
+O público-Alvo do nosso software são estudantes da área de TI, mais especifícamente a programação, tal que nosso principal objetivo é ajudar os iniciantes , cujo querem aumentar suas skills na área. A princípio os úsuarios nao precisarão ser os melhores em sua relação com a tecnologia , já que o intuito é ajuda-los a adquirir conhecimento.
+
+Mapa de stakeholders
+
+Pessoas fundamentais :
+
+- Programadores: Eles são os participantes diretos da competição e usuários principais do sistema.
+- Organizadores da Competição: Eles planejam, coordenam e executam o evento, utilizando o sistema para gerenciar inscrições, submissões e resultados.
+
+
+Pessoas Importantes
+
+- Patrocinadores: Financiam o evento e podem querer influenciar o formato ou os resultados para seus próprios fins.
+- Plataformas de Divulgação: Incluem sites, mídias sociais e apps onde o evento é promovido e transmitido ao vivo.
+- Comunidade de Desenvolvimento de Software: Composta por outros programadores, empresas de TI, e educadores que podem não estar diretamente envolvidos, mas têm interesse no sucesso e inovação da competição.
+
+Pessoas influenciadoras:
+
+- Reguladores de Tecnologia e Competições: Podem impor regras que afetam a organização e a execução da competição.
+- Opinião Pública/Comunidade Online: Seus membros podem afetar a percepção do evento por meio de fóruns, redes sociais e blogs.
+- Indústria de Software: Inclui grandes empresas de tecnologia e startups que podem usar a competição como uma forma de talent scouting ou para identificar novas tendências e inovações.
+
+
+
+
 Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
