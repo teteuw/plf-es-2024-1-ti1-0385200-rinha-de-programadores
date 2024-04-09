@@ -165,9 +165,9 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 ## Requisitos
 
 Requisitos Funcionais :
--Cadastro de usuário / salvvar o login
+-Cadastro de usuário / salvar o login
 
--Seleção de diversas linguagens para o dessafio
+-Seleção de diversas linguagens para o desafio
 
 -Seleção do modo de jogo
 
@@ -222,6 +222,35 @@ Wireframes são protótipos das telas da aplicação usados em design de interfa
 
 ## Gestão de Projetos
 
+O projeto da disciplina Trabalho Interdisciplinar: Aplicações Web, desenvolvido pelo grupo
+“Rinha de programadores”, que tem como foco programação competitiva, teve o sprint 1
+concluído no prazo esperado, projeto tem previsão de ser apresentado 10/04 na aula da
+disciplina referente.
+A divisão de tarefas foi uma das práticas usadas para a conclusão eficaz do trabalho,
+visto que reduz o tempo gasto no total dividindo-o para cada aluno. A Gestão de Projetos foi
+destinada ao Mateus Araujo Santos, ao Vitor Lichter Sampaio e ao Antônio Loureiro foi
+destinado o wireframe, ao Antônio Loureiro os slides, Ao Vitor Costa Vianna a
+documentação e os slides, ao Eliseu do Prado Chaves e ao Fernando Dantas Gomes Leite
+foi destinado o User flow.
+A gestão de configuração do projeto via GitHub aconteceu com cada indivíduo
+responsável pela parte destinada a ele enviando arquivos no prazo, para a organização,
+documentação e o registro serem feitos, facilitando o entendimento do requerente.
+Pesquisas foram necessárias para o entendimento do tema, abrangendo o conhecimento e
+incrementando novas metodologias usadas para o projeto.
+O design thinking foi essencial, elaborando primeiro as certezas, dúvidas e o que não
+havia conhecimento para solucionar o que era possível de usar e o que deveria ser testado
+e analisado, com o objetivo de implementar. Além disso, houve o mapeamento do
+público-alvo e a adaptação da estrutura e do modo de apresentar para atender a tais
+possíveis usuários.
+Terminando o sprintt 1, foram postados as partes de cada um no GitHub para a
+visualização do organizador, que realizou o trabalho, implementando as práticas do
+Framework Scrum, observando para ver se estava tudo de acordo, utilizando os critérios
+principais dessa prática, que são a Transparência, ou seja o solicitante deve estar ciente de
+todas partes do projeto, para isso o Gestor de Projetos, a Inspeção, que foi realizada por
+todos os integrantes do grupo, o que é indispensável pois as mudanças devem ser
+constatadas no final, para que novamente o solicitante saiba de tudo, e por fim, a
+adaptação, que citada mais cedo, foi realizada para melhorar a experiência do público.
+ 
  Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
 
 Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
