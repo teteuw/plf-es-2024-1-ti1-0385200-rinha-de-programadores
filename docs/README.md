@@ -142,6 +142,10 @@ Requisitos Funcionais :
 
 -Área com videos e tuturiais para tirar as dúvidas
 
+-Seleção da dificuldade do desafio / easy or hard
+
+-Chat de conversa para esclarecer dúvidas e interagir com amigos
+
 Requisitos não funcionais:
 
 -Segurança / confiabilidade do login
