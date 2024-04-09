@@ -137,6 +137,7 @@ Requisitos não funcionais:
 ## User Flow
 
 https://app.flowmapp.com/share/projects/d30f0582-7d4f-4887-93fa-c094d53cf580/sitemap/7e93648a-088a-4595-b7e5-15aea582a84e
+![image](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/eb09acd2-f1bc-4c52-8954-c7bc96eb7c44)
 
 
 ## Wireframes
