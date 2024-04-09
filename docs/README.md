@@ -39,7 +39,7 @@ A importância do tema abordado para a construção do software se diz a respeit
 
 ## Público-Alvo
 
-O público-Alvo do nosso software são estudantes da área de TI, mais especifícamente a programação, tal que nosso principal objetivo é ajudar os iniciantes , cujo querem aumentar suas skills na área. A princípio os úsuarios nao precisarão ser os melhores em sua relação com a tecnologia , já que o intuito é ajuda-los a adquirir conhecimento.
+O público-Alvo do nosso software são estudante em sua maioria jovens entre 17 a 27 anos da área de TI , mais especifícamente a programação, tal que nosso principal objetivo é ajudar os iniciantes no curso de graduação ou seja com o ensino-médio completo , cujo querem aumentar suas skills na área. A princípio os úsuarios nao precisarão ser os melhores em sua relação com a tecnologia , já que o intuito é ajuda-los a adquirir conhecimento.
 
 Mapa de stakeholders
 
@@ -124,6 +124,10 @@ Requisitos Funcionais :
 -Visualização do projeto dos outros usuarios
 
 -Botão para criação de partidas privadas 
+
+-Botão para busca de oponente/entrar na fila
+
+-Área com videos e tuturiais para tirar as dúvidas
 
 Requisitos não funcionais:
 
