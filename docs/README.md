@@ -23,15 +23,6 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 Atualmente a área de programação está em alta , porém grande parte das pessoas que começam a estudar este contéudo desistem no meio do caminho ou possuem uma enorme dificuldade para evoluir. Dessa forma 
 se faz necessário ferramentas para alavancar o conhecimento e habilidades de um programador iniciante!
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-**Links Úteis**:
-
-- [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-- [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-- [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -42,23 +33,9 @@ Obejtivos específicos :
  / Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompnesas no jogo.
 
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
-
-**Links Úteis**:
-
-- [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 ## Justificativa
 
 A importância do tema abordado para a construção do software se diz a respeito que a área de TI vem crescendo cada vez mais e sofrendo diversas transformações constantemnete, e algo que preocupa muito é o mercado de trabalho já que grande porcentagem das pessoas que começam a estudar programaçao desistem antes de se tornaremm qualificados. Por isso a ideia desta aplicaçao Web é ajudar estudantes , de uma forma mais atrativa como o mundo dos games, tornando o aprendizado mais dinâmico e competitivo , os incentivando a manter o interesse na área e algum dia se tornar um profissional muito bem qualificado no mercado de trabalho.
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-**Links Úteis**:
-
-- [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -84,18 +61,6 @@ Pessoas influenciadoras:
 - Opinião Pública/Comunidade Online: Seus membros podem afetar a percepção do evento por meio de fóruns, redes sociais e blogs.
 - Indústria de Software: Inclui grandes empresas de tecnologia e startups que podem usar a competição como uma forma de talent scouting ou para identificar novas tendências e inovações.
 
-
-
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
-
-**Links Úteis**:
-
-- [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-- [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
-
 ## Personas
 
 Pessoa 1: João Pedro é um morador de Nova Lima com 19 anos que sempre se interessou em atividades externas, como fazer trilhas, acampar e praticar esportes no geral. O máximo de tecnologia a que ele recorreu foi um laptop durante o período do ensino virtual na pandemia.
@@ -105,16 +70,6 @@ Pessoa 2: Joana é uma moradora do Buritis com 20 anos. Durante toda sua vida, e
 Ela então decidiu utilizar a rinha de computação para rapidamente reter a informação necessária para alcançar seus colegas de sala na matéria que ela perdeu.
 
 Pessoa 3: Gabriel é um morador da Savassi com 18 anos. Durante sua infância, ele sempre teve o desejo de ganhar, tornando-o muito competitivo. Por outros motivos externos, ele decidiu cursar Engenharia de Software. O curso estava tudo como previsto, entretanto, para ele faltava algo muito importante, a adrenalina e todas as emoções que vinham com o ato de competir. Isso fez com que ele perdesse a motivação de tirar notas altas, pois, a despeito de tudo, a sensação de tirar a nota mínima e a total era a mesma. Para reviver sua garra, ele fundiu os mundos de competição e ensino. Com a rinha de programação, ele voltou a gostar realmente de seu curso e se empenhar mais nele.
-
-
-Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
-
-**Links Úteis**:
-
-- [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-- [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-- [Rock Content](https://rockcontent.com/blog/personas/)
-- [Criar personas (Hotmart)](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 
 ## Histórias de Usuários
 
@@ -155,13 +110,6 @@ quero : dependendo do nivel do rank e do desafio receber dicas
 para : tornar a experiência mais agradável e tirar duvidas
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-**Links Úteis**:
-
-- [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-- [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-
 ## Requisitos
 
 Requisitos Funcionais :
@@ -185,40 +133,20 @@ Requisitos não funcionais:
 
 -Atualização rápida do rank
 
-Os requisitos de um projeto são classificados em dois grupos:
-
-- [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
-  correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
-
-Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-**Links Úteis**:
-
-- [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-- [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## User Flow
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+https://app.flowmapp.com/share/projects/d30f0582-7d4f-4887-93fa-c094d53cf580/sitemap/7e93648a-088a-4595-b7e5-15aea582a84e
 
-**Links Úteis**:
-
-- [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-- [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-- [Top 25 User Flow Tools &amp; Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
 ## Wireframes
 
-Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante ao layout de elementos fundamentais na interface.
+![Home (1)](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/9e8714fa-7ba0-4377-9a41-d026054f4132)
+![Profile](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/18f71ace-88fe-4f87-b9d0-4ec8239df66c)
+![Chat](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/6035e765-3c29-40e4-b045-8ddff85dd5d1)
+![Notifications](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/5fcbbff7-d96b-4dcd-8f9e-97d6147f1c94)
+![Search](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/d26858fb-ff48-4835-b1a2-b87d2b15b7af)
 
-**Links Úteis**:
-
-- [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-- [Figma](https://www.figma.com/)
-- [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-- [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 
 ## Gestão de Projetos
 
@@ -251,14 +179,3 @@ todos os integrantes do grupo, o que é indispensável pois as mudanças devem s
 constatadas no final, para que novamente o solicitante saiba de tudo, e por fim, a
 adaptação, que citada mais cedo, foi realizada para melhorar a experiência do público.
  
- Nesta parte do documento, você deve apresentar  o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a gestão de configuração do projeto via GitHub.
-
-Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-
-**Links Úteis**:
-
-- [Sobre Projects - GitHub Docs](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-- [Gestão de projetos com GitHub | balta.io](https://balta.io/blog/gestao-de-projetos-com-github)
-- [(460) GitHub Projects - YouTube](https://www.youtube.com/playlist?list=PLiO7XHcmTsldZR93nkTFmmWbCEVF_8F5H)
-- [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-- [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
