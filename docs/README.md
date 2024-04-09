@@ -30,12 +30,14 @@ Obejetivo geral :
  Desenvolver um software para auxiliar estudantes de programação que pensam  em desistir no meio do caminho ou possuem uma enorme dificuldade para evoluir.
 Obejtivos específicos : 
  Tornar o estudo de algoritmos , e códigos mais "divertido" por meio da competição.
- / Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompnesas no jogo.
+
+ Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompnesas no jogo.
 
 
 ## Justificativa
 
 A importância do tema abordado para a construção do software se diz a respeito que a área de TI vem crescendo cada vez mais e sofrendo diversas transformações constantemnete, e algo que preocupa muito é o mercado de trabalho já que grande porcentagem das pessoas que começam a estudar programaçao desistem antes de se tornaremm qualificados. Por isso a ideia desta aplicaçao Web é ajudar estudantes , de uma forma mais atrativa como o mundo dos games, tornando o aprendizado mais dinâmico e competitivo , os incentivando a manter o interesse na área e algum dia se tornar um profissional muito bem qualificado no mercado de trabalho.
+
 Alguns dos links usados para a formação da opinião e do problema apresentado :
 https://projeto7.com/por-que-tantas-pessoas-desistem-da-programacao/
 https://www.brasilcode.com.br/por-que-as-pessoas-desistem-da-programacao/#:~:text=Um%20terceiro%20fator%20que%20pode,de%20cada%20passo%20ou%20comando.
