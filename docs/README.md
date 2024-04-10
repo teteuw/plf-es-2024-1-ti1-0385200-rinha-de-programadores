@@ -203,4 +203,32 @@ todas partes do projeto, para isso o Gestor de Projetos, a Inspeção, que foi r
 todos os integrantes do grupo, o que é indispensável pois as mudanças devem ser
 constatadas no final, para que novamente o solicitante saiba de tudo, e por fim, a
 adaptação, que citada mais cedo, foi realizada para melhorar a experiência do público.
- 
+
+
+
+## Metodologia
+
+|Ambiente|         |Plataforma|          |Links|
+|Wireframe         |Uizard               |http://Uizard.io     
+|Kanban            |Trello               |http://Trello.com    
+|Slides            |Canva                |https://www.canva.com/pt_br/ 
+|Design Thinking   |Google Docs          |
+
+
+
+
+
+
+
+**Gestão de Projeto feita pelo Trello**
+
+https://trello.com/b/R098E9zf/kanbam-grupo
+
+ ![Imagem do WhatsApp de 2024-04-10 à(s) 09 46 22_38a6af31](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/145078231/a3bd6956-91ae-4b26-9a2e-5deef9cf43b7)
+
+
+
+
+
+
+
