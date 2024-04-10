@@ -1,6 +1,6 @@
 ## Programação Competitiva
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+ O projeto foi concebido com a finalidade de aprimorar o ensino de programação e torná-lo mais atraente por meio de uma abordagem competitiva, especialmente para aqueles que enfrentam maiores desafios no aprendizado.
 
 ## Alunos integrantes da equipe
 
