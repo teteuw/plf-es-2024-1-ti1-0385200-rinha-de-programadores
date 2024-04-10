@@ -51,7 +51,7 @@ https://www.linkedin.com/pulse/por-que-maioria-dos-programadores-desistem-albér
 
 ## Público-Alvo
 
-O público-Alvo do nosso software são estudante em sua maioria jovens entre 17 a 27 anos da área de TI , mais especifícamente a programação, tal que nosso principal objetivo é ajudar os iniciantes no curso de graduação ou seja com o ensino-médio completo , cujo querem aumentar suas skills na área. A princípio os úsuarios nao precisarão ser os melhores em sua relação com a tecnologia , já que o intuito é ajuda-los a adquirir conhecimento.
+O público-alvo do nosso software são estudantes, em sua maioria jovens entre 17 e 27 anos, da área de TI, mais especificamente a programação. Nosso principal objetivo é ajudar os iniciantes no curso de graduação, ou seja, com o ensino médio completo, que desejam aumentar suas habilidades na área. A princípio, os usuários não precisarão ser os melhores em sua relação com a tecnologia, já que o intuito é ajudá-los a adquirir conhecimento.
 
 Mapa de stakeholders
 
