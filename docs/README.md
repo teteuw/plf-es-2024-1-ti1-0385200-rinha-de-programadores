@@ -182,8 +182,8 @@ disciplina referente.
 A divisão de tarefas foi uma das práticas usadas para a conclusão eficaz do trabalho,
 visto que reduz o tempo gasto no total dividindo-o para cada aluno. A Gestão de Projetos foi
 destinada ao Mateus Araujo Santos, ao Vitor Lichter Sampaio e ao Antônio Loureiro foi
-destinado o wireframe, ao Antônio Loureiro os slides, Ao Vitor Costa Vianna a
-documentação e os slides, ao Eliseu do Prado Chaves e ao Fernando Dantas Gomes Leite
+destinado o wireframe, ao Antônio Loureiro revisão e auxilio em vários momentos do design Thinking, Ao Vitor Costa Vianna a
+documentação(scrum master) e os slides, ao Eliseu do Prado Chaves e ao Fernando Dantas Gomes Leite
 foi destinado o User flow.
 A gestão de configuração do projeto via GitHub aconteceu com cada indivíduo
 responsável pela parte destinada a ele enviando arquivos no prazo, para a organização,
