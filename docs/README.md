@@ -126,33 +126,42 @@ para : tornar a experiência mais agradável e tirar duvidas
 
 Requisitos Funcionais :
 
--Cadastro de usuário / salvar o login
+RF-01 Cadastro de usuário / salvar o login
 
--Seleção de diversas linguagens para o desafio
+RF-02 Seleção de diversas linguagens para o desafio
 
--Seleção do modo de jogo
+RF-03 Seleção do modo de jogo
 
--Biblioteca de amigos
+RF-04 
 
--Visualização do projeto dos outros usuarios
+RF-05 Visualização do projeto dos outros usuarios
 
--Botão para criação de partidas privadas 
+RF-06 
 
--Botão para busca de oponente/entrar na fila
+RF-07
 
--Área com videos e tuturiais para tirar as dúvidas
+RF-08 Área com videos e tuturiais para tirar as dúvidas
 
--Seleção da dificuldade do desafio / easy or hard
+RF-09 Seleção da dificuldade do desafio / easy or hard
 
--Chat de conversa para esclarecer dúvidas e interagir com amigos
 
 Requisitos não funcionais:
 
--Segurança / confiabilidade do login
+RNF-01 Segurança / confiabilidade do login
 
--Desempenho rápido na correção dos códigos
+RNF-02 Desempenho rápido na correção dos códigos
 
--Atualização rápida do rank
+RNF-03 Atualização rápida do rank
+
+RNF-04-Compatível com google chrome, firefox, edge.
+
+RNF-05-Feito com HTML,CSS E JS 
+
+RNF-06- Design responsivo
+
+RNF-07- O sistema será surportado nos dispositivos Desktop, Tablet e Smarthphone via navgegador
+
+RNF-08- O sistema usará banco de dados LOCALSTORAGE
 
 
 ## User Flow
@@ -213,7 +222,7 @@ adaptação, que citada mais cedo, foi realizada para melhorar a experiência do
 |Kanban            |Trello               |http://Trello.com    
 |Slides            |Canva                |https://www.canva.com/pt_br/ 
 |Design Thinking   |Google Docs          |
-
+|documentação      |GitHub
 
 
 
