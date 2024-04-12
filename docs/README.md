@@ -132,11 +132,11 @@ RF-02 Seleção de diversas linguagens para o desafio
 
 RF-03 Seleção do modo de jogo
 
-RF-04 
+RF-04 ícone de peerfil
 
 RF-05 Visualização do projeto dos outros usuarios
 
-RF-06 
+RF-06 Histórico de partidas
 
 RF-07
 
