@@ -20,26 +20,32 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 
 ## Problema
 
-Atualmente a área de programação está em alta , porém grande parte das pessoas que começam a estudar este contéudo desistem no meio do caminho ou possuem uma enorme dificuldade para evoluir. Dessa forma 
-se faz necessário ferramentas para alavancar o conhecimento e habilidades de um programador iniciante!
+
+Atualmente a área de programação está em alta , porém grande parte das pessoas que começam a estudar este conteúdo desistem no meio do caminho ou possuem uma enorme dificuldade para evoluir. Dessa forma se faz necessário ferramentas para alavancar o conhecimento e habilidades de um programador iniciante!
+
 
 
 ## Objetivos
 
 Obejetivo geral : 
  
- Desenvolver um software para auxiliar estudantes de programação que pensam  em desistir no meio do caminho ou possuem uma enorme dificuldade para evoluir.
+ 
+ Desenvolver um software para auxiliar estudantes de programação que pensam  em desistir no meio do caminho ou possuem uma enorme dificuldade para evoluir
+
 
 Obejtivos específicos : 
 
  Tornar o estudo de algoritmos e códigos mais "divertido" por meio da competição.
 
- Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompensas no jogo.
+ Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompensas no  jogo.
+
 
 
 ## Justificativa
 
-A importância do tema abordado para a construção do software se diz a respeito que a área de TI vem crescendo cada vez mais e sofrendo diversas transformações constantemnete, e algo que preocupa muito é o mercado de trabalho já que grande porcentagem das pessoas que começam a estudar programaçao desistem antes de se tornaremm qualificados. Por isso a ideia desta aplicaçao Web é ajudar estudantes de uma forma mais atrativa como o mundo dos games, tornando o aprendizado mais dinâmico e competitivo e os incentivando a manter o interesse na área e algum dia se tornar um profissional muito bem qualificado no mercado de trabalho.
+
+A importância do tema abordado para a construção do software se diz a respeito que a área de TI vem crescendo cada vez mais e sofrendo diversas transformações constantemente, é algo que preocupa muito é o mercado de trabalho já que grande porcentagem das pessoas que começam a estudar programação desistem antes de se tornarem qualificados. Por isso a ideia desta aplicação Web é ajudar estudantes de uma forma mais atrativa como o mundo dos games, tornando o aprendizado mais dinâmico e competitivo e os incentivando a manter o interesse na área e algum dia se tornar um profissional muito bem qualificado no mercado de trabalho.
+
 
 Alguns dos links usados para a formação da opinião e do problema apresentado:
 
@@ -52,6 +58,7 @@ https://www.linkedin.com/pulse/por-que-maioria-dos-programadores-desistem-albér
 ## Público-Alvo
 
 O público-alvo do nosso software são estudantes, em sua maioria jovens entre 17 e 27 anos, da área de TI, mais especificamente a programação. Nosso principal objetivo é ajudar os iniciantes no curso de graduação, ou seja, com o ensino médio completo, que desejam aumentar suas habilidades na área. A princípio, os usuários não precisarão ser os melhores em sua relação com a tecnologia, já que o intuito é ajudá-los a adquirir conhecimento.
+
 
 Mapa de stakeholders
 
@@ -99,7 +106,7 @@ Para : não perder meu progresso e visualizar meu rank atual
 
 Como : (usuário)
 Quero : conseguir salvar meu login
-Para :  não perder tempo digitando o usuario/senha todas vez , agilizando o processo
+Para :  não perder tempo digitando o usuário/senha todas vez , agilizando o processo
 
 Como : (usuário)
 Quero : conseguir visualizar o projeto final dos outros usuários 
