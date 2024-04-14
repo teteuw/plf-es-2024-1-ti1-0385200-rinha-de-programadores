@@ -114,12 +114,12 @@ Quero : dependendo do nivel do rank e do desafio receber dicas
 Para : tornar a experiência mais agradável e tirar dúvidas
 
 Como: (usuário) 
-Quero:
-Para:
+Quero: poder ganhar xp para subir de level.
+Para:me sentir motivado a programar.
 
 Como: (usuário) 
-Quero:
-Para:
+Quero: Recomendações de conteúdo para ver
+Para: melhorar meu código
 
 
 ## Requisitos
@@ -142,6 +142,11 @@ RF-07 Área com vídeos e tutoriais para tirar as dúvidas
 
 RF-08 Seleção da dificuldade do desafio / easy or hard
 
+RF-09 Cronômetro para regir o tempo
+
+RF-10 Recompensa de xp para subir de level
+
+
 
 Requisitos não funcionais:
 
@@ -161,7 +166,6 @@ RNF-07- O sistema será surportado nos dispositivos Desktop, Tablet e Smarthphon
 
 RNF-08- O sistema usará banco de dados LOCALSTORAGE
 
-RNF-09- 
 
 
 ## User Flow
