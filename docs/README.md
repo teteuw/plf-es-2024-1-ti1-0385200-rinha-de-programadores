@@ -32,16 +32,16 @@ Obejetivo geral :
 
 Obejtivos específicos : 
 
- Tornar o estudo de algoritmos , e códigos mais "divertido" por meio da competição.
+ Tornar o estudo de algoritmos e códigos mais "divertido" por meio da competição.
 
- Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompnesas no jogo.
+ Auxiliar e alavancar o desenvolvimento de programadores com dicas e recompensas no jogo.
 
 
 ## Justificativa
 
-A importância do tema abordado para a construção do software se diz a respeito que a área de TI vem crescendo cada vez mais e sofrendo diversas transformações constantemnete, e algo que preocupa muito é o mercado de trabalho já que grande porcentagem das pessoas que começam a estudar programaçao desistem antes de se tornaremm qualificados. Por isso a ideia desta aplicaçao Web é ajudar estudantes , de uma forma mais atrativa como o mundo dos games, tornando o aprendizado mais dinâmico e competitivo , os incentivando a manter o interesse na área e algum dia se tornar um profissional muito bem qualificado no mercado de trabalho.
+A importância do tema abordado para a construção do software se diz a respeito que a área de TI vem crescendo cada vez mais e sofrendo diversas transformações constantemnete, e algo que preocupa muito é o mercado de trabalho já que grande porcentagem das pessoas que começam a estudar programaçao desistem antes de se tornaremm qualificados. Por isso a ideia desta aplicaçao Web é ajudar estudantes de uma forma mais atrativa como o mundo dos games, tornando o aprendizado mais dinâmico e competitivo e os incentivando a manter o interesse na área e algum dia se tornar um profissional muito bem qualificado no mercado de trabalho.
 
-Alguns dos links usados para a formação da opinião e do problema apresentado :
+Alguns dos links usados para a formação da opinião e do problema apresentado:
 
 https://projeto7.com/por-que-tantas-pessoas-desistem-da-programacao/
 
@@ -65,7 +65,7 @@ Pessoas Importantes
 
 - Patrocinadores: Financiam o evento e podem querer influenciar o formato ou os resultados para seus próprios fins.
 - Plataformas de Divulgação: Incluem sites, mídias sociais e apps onde o evento é promovido e transmitido ao vivo.
-- Comunidade de Desenvolvimento de Software: Composta por outros programadores, empresas de TI, e educadores que podem não estar diretamente envolvidos, mas têm interesse no sucesso e inovação da competição.
+- Comunidade de Desenvolvimento de Software: Composta por outros programadores, empresas de TI e educadores que podem não estar diretamente envolvidos mas têm interesse no sucesso e inovação da competição.
 
 Pessoas influenciadoras:
 
@@ -76,7 +76,7 @@ Pessoas influenciadoras:
 ## Personas
 
 Pessoa 1: João Pedro é um morador de Nova Lima com 19 anos que sempre se interessou em atividades externas, como fazer trilhas, acampar e praticar esportes no geral. O máximo de tecnologia a que ele recorreu foi um laptop durante o período do ensino virtual na pandemia.
-Recentemente, João começou a namorar uma garota que cursava Ciência da Computação. A relação entre os dois sempre foi boa, porém ele percebeu que sua namorada sempre mostrou um interesse aos seus passatempos. Infelizmente, ele não botava tanto esforço em programação, por isso ele mudou e começou a aprender a programar usando a rinha de programadores, para assim surpreender sua namorada e mostrar que o interesse dos passatempos de um do outro é recíproco.
+Recentemente, João começou a namorar uma garota que cursava Ciência da Computação. A relação entre os dois sempre foi boa, porém, ele percebeu que sua namorada sempre mostrou um interesse aos seus passatempos. Infelizmente, ele não se esforçava tanto em programação, por isso ele mudou e começou a aprender a programar usando a rinha de programadores, para assim surpreender sua namorada e mostrar que o interesse dos passatempos de um do outro é recíproco.
 
 Pessoa 2: Joana é uma moradora do Buritis com 20 anos. Durante toda sua vida, ela tinha felicidade enquanto mexia com jogos eletrônicos, por esse motivo ela decidiu ingressar no curso de Engenharia da Computação. No início, ela conseguiu acompanhar facilmente as matérias, contudo, ela participou de um intercâmbio e por isso perdeu 1 mês de matérias importantes.
 Ela então decidiu utilizar a rinha de computação para rapidamente reter a informação necessária para alcançar seus colegas de sala na matéria que ela perdeu.
@@ -85,41 +85,33 @@ Pessoa 3: Gabriel é um morador da Savassi com 18 anos. Durante sua infância, e
 
 ## Histórias de Usuários
 
-como : (usuario)
-quero : poder selecionar diferentes linguagens de programação
-para : aprimorar minhas habilidades na linguagem X
+Como : (usuário)
+Quero : poder selecionar diferentes linguagens de programação
+Para : aprimorar minhas habilidades na linguagem X
 
-como : (usuario)
-quero : poder escolher o modo de jogo como casual ou competitivo 
-para : para no casual aprimorar minhas habilidades sem se preocupar com o rank e aplicar no competitivo
+Como : (usuário)
+Quero : poder escolher o modo de jogo como casual ou competitivo 
+Para : para no casual aprimorar minhas habilidades sem se preocupar com o rank e aplicar no competitivo
 
-como : (usuario)
-quero : cadastrar minha conta 
-para : não perder meu progresso e visualizar meu rank atual
+Como : (usuário)
+Quero : cadastrar minha conta 
+Para : não perder meu progresso e visualizar meu rank atual
 
-como : (usuario)
-quero : 
-para : 
+Como : (usuário)
+Quero : conseguir salvar meu login
+Para :  não perder tempo digitando o usuario/senha todas vez , agilizando o processo
 
-como : (usuario)
-quero : conseguir salvar meu login
-para :  não perder tempo digitando o usuario/senha todas vez , agilizando o processo
+Como : (usuário)
+Quero : conseguir visualizar o projeto final dos outros usuários 
+Para : aprender / pegar ideias / dicas 
 
-como : (usuario)
-quero : conseguir visualizar o projeto final dos outros usuários 
-para : aprender / pegar ideias / dicas 
+Como : (usuário)
+Quero :  No final da rodada receber meu código corrigido
+Para :  saber o que errei , e aprimorar e aprender 
 
-como : (usuario)
-quero :  No final da rodada receber meu código corrigido
-para :  saber o que errei , e aprimorar e aprender 
-
-como : (usuario)
-quero : 
-para : 
-
-como : (usuario)
-quero : dependendo do nivel do rank e do desafio receber dicas 
-para : tornar a experiência mais agradável e tirar duvidas
+Como : (usuário)
+Quero : dependendo do nivel do rank e do desafio receber dicas 
+Para : tornar a experiência mais agradável e tirar dúvidas
 
 
 ## Requisitos
@@ -132,17 +124,15 @@ RF-02 Seleção de diversas linguagens para o desafio
 
 RF-03 Seleção do modo de jogo
 
-RF-04 ícone de peerfil
+RF-04 Ícone de perfil
 
-RF-05 Visualização do projeto dos outros usuarios
+RF-05 Visualização do projeto dos outros usuários
 
 RF-06 Histórico de partidas
 
-RF-07
+RF-07 Área com vídeos e tutoriais para tirar as dúvidas
 
-RF-08 Área com videos e tuturiais para tirar as dúvidas
-
-RF-09 Seleção da dificuldade do desafio / easy or hard
+RF-08 Seleção da dificuldade do desafio / easy or hard
 
 
 Requisitos não funcionais:
