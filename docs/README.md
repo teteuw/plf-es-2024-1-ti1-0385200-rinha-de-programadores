@@ -113,6 +113,14 @@ Como : (usuário)
 Quero : dependendo do nivel do rank e do desafio receber dicas 
 Para : tornar a experiência mais agradável e tirar dúvidas
 
+Como: (usuário) 
+Quero:
+Para:
+
+Como: (usuário) 
+Quero:
+Para:
+
 
 ## Requisitos
 
@@ -152,6 +160,8 @@ RNF-06- Design responsivo
 RNF-07- O sistema será surportado nos dispositivos Desktop, Tablet e Smarthphone via navgegador
 
 RNF-08- O sistema usará banco de dados LOCALSTORAGE
+
+RNF-09- 
 
 
 ## User Flow
