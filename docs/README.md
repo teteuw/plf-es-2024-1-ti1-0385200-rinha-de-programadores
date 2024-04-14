@@ -98,8 +98,8 @@ quero : cadastrar minha conta
 para : não perder meu progresso e visualizar meu rank atual
 
 como : (usuario)
-quero : poder adicionar amigos 
-para : jogar online com eles mais de uma vez e tornar a experiência mais agradável
+quero : 
+para : 
 
 como : (usuario)
 quero : conseguir salvar meu login
@@ -114,8 +114,8 @@ quero :  No final da rodada receber meu código corrigido
 para :  saber o que errei , e aprimorar e aprender 
 
 como : (usuario)
-quero : poder criar partidas privadas 
-para :  chamar pessoas específicas para jogar e praticar com quem você quiser 
+quero : 
+para : 
 
 como : (usuario)
 quero : dependendo do nivel do rank e do desafio receber dicas 
