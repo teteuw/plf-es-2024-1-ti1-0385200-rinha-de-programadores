@@ -173,6 +173,12 @@ https://app.flowmapp.com/share/projects/d30f0582-7d4f-4887-93fa-c094d53cf580/sit
 
 ## Wireframes
 
+Wireframes com maior fidelidade:
+https://app.uizard.io/p/f77c7097
+![image](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/48618d02-19ab-4feb-b170-9aa7c5888096)
+![image](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/2d6b6dcb-b8ee-486d-948f-3a9b890cd4e4)
+
+Wireframe baixa fidelidade:
 https://app.uizard.io/p/604fdfe9
 
 ![Home (1)](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-ti1-0385200-rinha-de-programadores/assets/164224028/9e8714fa-7ba0-4377-9a41-d026054f4132)
