@@ -1,0 +1,129 @@
+body {
+    background-color: #121212;
+    color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #00ff00;
+    font-size: 2.5rem;
+}
+
+h1 img {
+    width: 50px;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+
+.form-group label {
+    font-weight: bold;
+    color: #00ff00;
+}
+
+.form-control {
+    background-color: #1e1e1e;
+    border: 1px solid #00ff00;
+    color: #f8f9fa;
+    border-radius: 5px;
+}
+
+.form-control:focus {
+    background-color: #1e1e1e;
+    color: #f8f9fa;
+    border-color: #00ff00;
+    box-shadow: 0 0 10px #00ff00;
+}
+
+::placeholder {
+    color: #b5b5b5 !important;
+    opacity: 1;
+}
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color: #b5b5b5 !important;
+}
+
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #b5b5b5 !important;
+}
+
+
+.btn {
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.btn-success {
+    background-color: #00ff00;
+    border-color: #00ff00;
+    color: #121212;
+}
+
+.btn-success:hover {
+    background-color: #00cc00;
+    border-color: #00cc00;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #121212;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #e0a800;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+    border-color: #545b62;
+}
+
+
+.table {
+    margin-top: 20px;
+    background-color: #1e1e1e;
+}
+
+.table thead th {
+    border-bottom: 2px solid #00ff00;
+    color: #00ff00;
+}
+
+.table tbody td {
+    border-top: 1px solid #00ff00;
+    color: #f8f9fa;
+    cursor: pointer;
+}
+
+
+#msg {
+    height: 60px;
+}
+
+small {
+    color: #00ff00;
+}
