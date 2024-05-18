@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Cadastro de Desafios</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/CSS/vitorC.css">   
+    <link rel="stylesheet" href="../assets/css/desafio.css"> 
+</head>
+
+<body>
+    <h1> Desafios <img src="../assets/images/logo (2).svg" alt="Logo"></h1>
+
+    <div class="container">
+        <div class="row">
+            <div id="msg" class="col-sm-10 offset-sm-1 ">
+                <!--<div class="alert alert-warning">Contato não encontrado.</div>-->
+            </div>
+        </div>
+        
+        <form id="form-contato">            
+            <div class="form-group row">
+                <div class="col-sm-8">
+                    <select name="filtro_cidade" id="filtro_cidade" onchange="ListaContatos()" class="form-control">
+                        <option value="">Selecione a Dificuldade</option>
+                        <option value="Fácil">Fácil</option>
+                        <option value="Médio">Médio</option>
+                        <option value="Díficil">Díficil</option>
+                    </select>                    
+                </div>
+                <div class="col-sm-4 text-right">
+                    <a href="../pages/cadastroD.html"><input type="button" class="btn btn-warning" id="btnClear" value="CadastroADM"></a>
+                </div>
+            </div>
+        </form>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <table id="grid-contatos" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Nome</th>
+                            <th scope="col">Linguagem</th>
+                            <th scope="col">Descrição</th>
+                            <th scope="col">Dificuldade</th>
+                            <th scope="col">Exemplo</th>
+                            <th scope="col">Ação</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-contatos">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="../assets/js/app.js"></script>
+    <script>
+        // carrega os dados a partir da API JSONServer
+        var db = [];
+        readContato(dados => {
+            db = dados;
+            ListaContatos();
+        });
+
+        // função para listar na tabela os contatos que estão associados aos filtros 
+        function ListaContatos() {
+            // Obtem os dados informados pelo usuário nos filtros
+            let fc = document.getElementById('filtro_cidade').value;
+
+            // limpa a lista de contatos apresentados
+            let tableContatos = document.getElementById("table-contatos");
+            tableContatos.innerHTML = "";
+
+            // Popula a tabela com os registros do banco de dados
+            for (let index = 0; index < db.length; index++) {
+                const contato = db[index];
+
+                // Verifica se os dados do contato batem com os filtros
+                if ((contato.dificuldade == fc) || (fc == '')) {
+                    // Inclui o contato na tabela    
+                    tableContatos.innerHTML += `<tr>
+                        <td scope="row">${contato.id}</td>
+                        <td>${contato.titulo}</td>
+                        <td>${contato.linguagem}</td>
+                        <td>${contato.comando}</td>
+                        <td>${contato.dificuldade}</td>
+                        <td>${contato.exemplo}</td>
+                        <td><button class="btn btn-hacker" onclick="FazerDesafio(${contato.id})">Fazer</button></td>
+                    </tr>`;
+                }
+            }
+        }
+
+        // Função para iniciar o desafio
+        function FazerDesafio(id) {
+            alert(`Iniciando desafio com ID: ${id}`);
+            // Adicione aqui a lógica para iniciar o desafio
+        }
+    </script>
+
+</body>
+
+</html>
