@@ -4,7 +4,7 @@
 
 ## Alunos integrantes da equipe
 
-* Antonio Loureiro Leandro Neto
+
 * Eliseu do Prado Chaves
 * Fernando Dantas Gomes Leite
 * Mateus Araujo Santos
